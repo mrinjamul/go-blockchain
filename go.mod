@@ -1,3 +1,3 @@
-module github.com/mrinjamul/blockchain-demo
+module github.com/mrinjamul/go-blockchain
 
 go 1.13
